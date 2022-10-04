@@ -1,0 +1,17 @@
+C:\Users\14015\source\repos\IceFox\IceFox\bin\Debug\net6.0-windows\IceFox.exe
+C:\Users\14015\source\repos\IceFox\IceFox\bin\Debug\net6.0-windows\IceFox.deps.json
+C:\Users\14015\source\repos\IceFox\IceFox\bin\Debug\net6.0-windows\IceFox.runtimeconfig.json
+C:\Users\14015\source\repos\IceFox\IceFox\bin\Debug\net6.0-windows\IceFox.dll
+C:\Users\14015\source\repos\IceFox\IceFox\bin\Debug\net6.0-windows\IceFox.pdb
+C:\Users\14015\source\repos\IceFox\IceFox\obj\Debug\net6.0-windows\IceFox.csproj.AssemblyReference.cache
+C:\Users\14015\source\repos\IceFox\IceFox\obj\Debug\net6.0-windows\IceFox.Form1.resources
+C:\Users\14015\source\repos\IceFox\IceFox\obj\Debug\net6.0-windows\IceFox.csproj.GenerateResource.cache
+C:\Users\14015\source\repos\IceFox\IceFox\obj\Debug\net6.0-windows\IceFox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14015\source\repos\IceFox\IceFox\obj\Debug\net6.0-windows\IceFox.AssemblyInfoInputs.cache
+C:\Users\14015\source\repos\IceFox\IceFox\obj\Debug\net6.0-windows\IceFox.AssemblyInfo.cs
+C:\Users\14015\source\repos\IceFox\IceFox\obj\Debug\net6.0-windows\IceFox.csproj.CoreCompileInputs.cache
+C:\Users\14015\source\repos\IceFox\IceFox\obj\Debug\net6.0-windows\IceFox.dll
+C:\Users\14015\source\repos\IceFox\IceFox\obj\Debug\net6.0-windows\refint\IceFox.dll
+C:\Users\14015\source\repos\IceFox\IceFox\obj\Debug\net6.0-windows\IceFox.pdb
+C:\Users\14015\source\repos\IceFox\IceFox\obj\Debug\net6.0-windows\IceFox.genruntimeconfig.cache
+C:\Users\14015\source\repos\IceFox\IceFox\obj\Debug\net6.0-windows\ref\IceFox.dll
